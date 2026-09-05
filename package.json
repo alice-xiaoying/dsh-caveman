@@ -1,5 +1,5 @@
 {
-  "name": "dsh-caveman",
+  "name": "dsh-model-caveman",
   "version": "1.0.0",
   "description": "Caveman skill for DeepSeek Harness — ultra-compressed communication mode.",
   "type": "module",

@@ -1,5 +1,5 @@
 /**
- * dsh-caveman — Caveman skill plugin for DeepSeek Harness.
+ * dsh-model-caveman — Caveman skill plugin for DeepSeek Harness.
  * Simply registers the skills directory; no runtime code needed.
  */
 
